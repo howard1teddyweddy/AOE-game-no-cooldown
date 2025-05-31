@@ -1,0 +1,1 @@
+# AOE-game-no-cooldown
